@@ -10,6 +10,7 @@ This repository holds the small application conducting stock screening.
 5. Screening is not auto trading, more like half auto, which helps people to pick up proper stocks easily if the rule is given clearly.
 
 ### Prerequisites
+```
 numpy
 pandas
 matplotlib
@@ -17,6 +18,7 @@ wxPython
 requests
 tushare
 talib
+```
 
 ## License
 GPL
